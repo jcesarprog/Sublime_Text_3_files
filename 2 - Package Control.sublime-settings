@@ -1,5 +1,5 @@
 Preferences > Package settings > Package Control > Settings user
-Copy text bellow:
+Copy text bellow and restart after paste:
 
 {
 	"bootstrapped": true,
