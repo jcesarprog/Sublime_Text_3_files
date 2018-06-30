@@ -1,0 +1,28 @@
+Preferences > Package settings > Package Control > Settings user
+Copy text bellow:
+
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Anaconda",
+		"BracketHighlighter",
+		"DocBlockr",
+		"DocBlockr_Python",
+		"Emmet",
+		"GitGutter",
+		"JSLint",
+		"Material Theme",
+		"Package Control",
+		"Phpcs",
+		"Predawn",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Terminal"
+	]
+}
